@@ -40,13 +40,8 @@ Welcome to ConfereLoto! These Terms of Service ("Terms") govern your use of our 
 
 ## Use of the App
 
-- **Eligibility**: You must be at least 18 years old to use ConfereLoto.
 - **License**: We grant you a limited, non-exclusive, non-transferable, revocable license to use ConfereLoto for personal, non-commercial purposes.
 - **Prohibited Conduct**: You agree not to use ConfereLoto for any unlawful purpose or in a manner that could harm or disrupt our services or systems.
-
-## Intellectual Property
-
-All content, features, and functionality of ConfereLoto, including but not limited to text, graphics, logos, and software, are the exclusive property of ConfereLoto and are protected by copyright, trademark, and other intellectual property laws. You may not reproduce, distribute, or create derivative works from any content without our prior written consent.
 
 ## Disclaimer of Warranties
 
